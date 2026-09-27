@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ConverterKing</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sun, 27 Sep 2026 20:07:56 +1000</pubDate>
+            <link>https://github.com/rmimpact/ConverterKing-Releases</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# ConverterKing 0.1.0
+
+- Signed and notarized for macOS.
+- Secure in-app updates through Sparkle.
+- Version information and update controls in Settings.
+]]></description>
+            <enclosure url="https://github.com/rmimpact/ConverterKing-Releases/releases/download/v0.1.0/ConverterKing-0.1.0-arm64.zip" length="7034124" type="application/octet-stream" sparkle:edSignature="osIFWeduTMswDosat7o6c2TRwwZc0W4v0yyZxKMySZy7S2XP6q86L4+MaEArTiu+TBV10A5FX/NtonuazZSMCQ=="/>
+        </item>
+    </channel>
+</rss>
