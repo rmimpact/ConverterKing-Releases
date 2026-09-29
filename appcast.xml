@@ -3,6 +3,24 @@
     <channel>
         <title>ConverterKing</title>
         <item>
+            <title>0.2.0</title>
+            <pubDate>Tue, 29 Sep 2026 12:22:12 +1000</pubDate>
+            <link>https://github.com/rmimpact/ConverterKing-Releases</link>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# ConverterKing 0.2.0
+
+- WebP conversion now uses a bundled encoder and works even when macOS has no system WebP encoder.
+- Video to GIF is now available with trimming, frame-rate, size and looping controls.
+- Image and video compression are now available.
+- New brighter ConverterKing app icon.
+- Conversion reliability, progress and batch-safety improvements.
+]]></description>
+            <enclosure url="https://github.com/rmimpact/ConverterKing-Releases/releases/download/v0.2.0/ConverterKing-0.2.0-arm64.zip" length="5187632" type="application/octet-stream" sparkle:edSignature="vyMzbQoYo/ellh3b/SbP9oTLA1z0Upm7PF2u7LCzYB6RQ91uRiP0XKYkGUS6xAvRBCRF+qvT4EleapPkdsAeBQ=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sun, 27 Sep 2026 20:07:56 +1000</pubDate>
             <link>https://github.com/rmimpact/ConverterKing-Releases</link>
